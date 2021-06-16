@@ -31,7 +31,7 @@
     "@ngneat/until-destroy": "^8.0.4",
     "@ngx-translate/core": "10.0.2",
     "@ngx-translate/http-loader": "3.0.1",
-    "@sentry/browser": "5.20.1",
+    "@sentry/browser": "5.30.0",
     "@sumsub/websdk": "1.0.11",
     "angular-svg-icon": "6.0.1",
     "angular2-text-mask": "9.0.0",
